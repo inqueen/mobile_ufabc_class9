@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="act1_title">#432427</color>
+    <color name="act1_back">#DFDFD7</color>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">atividade9</string>
+    <string name="background">Jinx from Arcane Animation/Netflix</string>
+    <string name="act1_title">O que será que acontece?</string>
+    <string name="act1_button1">Jinx is here (?)</string>
+    <string name="act1_button2">go to &gt;</string>
+    <string name="act2_title">Você clicou:</string>
+    <string name="act2_result">0</string>
+    <string name="return_btn">&lt; go back</string>
+    <string name="act2_video_result">Nenhum resultado disponível.</string>
+    <string name="countTextView">0</string>
+</resources>
