@@ -52,5 +52,4 @@ melhorar a experiência de uso deste aplicativo:
    voltar presentes na ```MainActivity``` e no ```ResultActivity```
 
 <i><b>Melhorias</b></i>
-1. em ```MainActivity``` entender como suprimir o ```userCountView``` que está camuflado e é utilizado
-apenas para o ```countTextView```
+1. revisar os atributos ```alt``` das imagens e itens de design para Design Universal
